@@ -1,8 +1,5 @@
-# React + Vite
+<h3>React ile loading page sayfası işlemleri</h3>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h3> Projeyi kodladığım videonun linki : https://www.youtube.com/watch?v=x2iJVGjJ6Fw </h3>
+ 
+![rEACT loadıng page](https://github.com/emrahbyz/LoaderApp/assets/146847947/a1f7554a-b447-4b0a-8ecf-479a4ab363c5)
